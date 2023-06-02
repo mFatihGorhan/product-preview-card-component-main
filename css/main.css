@@ -105,14 +105,14 @@ main section.product-preview .product-info button.add-card {
   border-radius: 5px;
   border: none;
   font-family: "Montserrat", sans-serif;
-  background-image: url(/product-preview-card-component-main/images/icon-cart.svg);
+  background-image: url(/images/icon-cart.svg);
   background-repeat: no-repeat;
   background-position: left 55px center;
 }
 
 main section.product-preview .product-info button.add-card:hover {
   background: var(--extra-dark-blue);
-  background-image: url(/product-preview-card-component-main/images/icon-cart.svg);
+  background-image: url(/images/icon-cart.svg);
   background-repeat: no-repeat;
   background-position: left 55px center;
 }
@@ -159,7 +159,7 @@ main section.product-preview .product-info button.add-card:hover {
         border-radius: 5px;
         border: none;
         font-family: "Montserrat", sans-serif;
-        background-image: url(/product-preview-card-component-main/images/icon-cart.svg);
+        background-image: url(/images/icon-cart.svg);
         background-repeat: no-repeat;
         background-position: left 85px center;
         margin: 0 auto;
